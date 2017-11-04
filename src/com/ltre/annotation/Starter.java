@@ -14,6 +14,8 @@ public class Starter {
         Maker.myMeth();
         System.out.println("------------------------------------");
         Single.myMeth();
+        System.out.println("------------------------------------");
+        TypeAnnotation.myMeth(10);
     }
     
 }
