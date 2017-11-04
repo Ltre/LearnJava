@@ -27,6 +27,7 @@ public class TestAnno2 {
         } catch (NoSuchMethodException e) {
             System.out.println(e);
         }
+        
     }
     
 }
